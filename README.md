@@ -28,7 +28,7 @@ Here is creating an linux image with STM32MP157 Board.
 
 <img width="1066" height="808" alt="login" src="https://github.com/user-attachments/assets/db155fc3-4f59-47a0-beac-5b0075349845" />
 
-(Enter your password (Default:root))
+(Enter your password)
 
 <img width="1066" height="366" alt="run a sh" src="https://github.com/user-attachments/assets/35055935-c942-4623-9c36-8337f54b0467" />
 
